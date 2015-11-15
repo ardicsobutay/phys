@@ -1,19 +1,19 @@
 # PHYS48Y
 
-| Homework        |1.2|1.3|1.4|2.1|2.2|2.3|3.3|3.3|3.3|
+| Homework                |1.2|1.3|1.4|2.1|2.2|2.3|3.3|3.3|3.3|
 | :---------------------- |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| 
-| Alp Sarkisla            |asd|asd|asd|asd|asd|asd|asd|asd|asd| 
-| Aysegul Cetinkaya       |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Bugra Bulut             |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Canberk Ozen            |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Cihat Kececi            |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Gurkan Karaman          |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Halil Samed Cildir      |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Hasret Nur              |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Huseyin Anil Gunduz     |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Mustafa Akinci          |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Mustafa Kutay Yabas     |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Tutkum Akyildiz         |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Ulas Aras               |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Yaman Kindap            |asd|asd|asd|asd|asd|asd|asd|asd|asd|
-| Yusuf Can Cekmecelioglu |asd|asd|asd|asd|asd|asd|asd|asd|asd|
+| Alp Sarkisla            | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+| Aysegul Cetinkaya       | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Bugra Bulut             | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Canberk Ozen            | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Cihat Kececi            | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Gurkan Karaman          | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Halil Samed Cildir      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hasret Nur              | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Huseyin Anil Gunduz     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Mustafa Akinci          | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Mustafa Kutay Yabas     | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Tutkum Akyildiz         | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ulas Aras               | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Yaman Kindap            | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Yusuf Can Cekmecelioglu | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
