@@ -23,4 +23,5 @@
 | Yaman Kindap            |  9| 10|  9|
 | Yusuf Can Cekmecelioglu | 10| 10| 10|
 
+
 Not: "Ben de ödev attım niye bakmadınız!" durumunda ödevinizi attığınız maili tarihi ve saatiyle screenshot alıp bana mail atıyorsunuz. Hemen özür dileyip bakıyorum. 
