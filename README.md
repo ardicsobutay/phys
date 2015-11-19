@@ -1,5 +1,7 @@
 # PHYS48Y
 
+Kontrol edilen bütün ödevler burada. Puanlar 10 üzerinden.
+
 | Homework                |1.1|1.2|1.3|
 | :---------------------- |:-:|:-:|:-:|
 | Alp Sarkisla            | 10| 10| 10|
