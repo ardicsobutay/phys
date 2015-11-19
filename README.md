@@ -1,6 +1,9 @@
 # PHYS48Y
 
-Kontrol edilen bütün ödevler burada. Puanlar 10 üzerinden.
+* Kontrol edilen bütün ödevler buraya yüklendi. 
+* Puanlar 10 üzerinden.
+* 10 alamayanların alamama sebebi her ödevin en üst satırında yazıyor.
+* 10 alanlarda hiçbirşey yazmıyor.
 
 | Homework                |1.1|1.2|1.3|
 | :---------------------- |:-:|:-:|:-:|
@@ -19,3 +22,5 @@ Kontrol edilen bütün ödevler burada. Puanlar 10 üzerinden.
 | Ulas Aras               | 10| 10| 10|
 | Yaman Kindap            |  9| 10|  9|
 | Yusuf Can Cekmecelioglu | 10| 10| 10|
+
+Not: "Ben de ödev attım niye bakmadınız!" durumunda ödevinizi attığınız maili tarihi ve saatiyle screenshot alıp bana mail atıyorsunuz. Hemen özür dileyip bakıyorum. 
